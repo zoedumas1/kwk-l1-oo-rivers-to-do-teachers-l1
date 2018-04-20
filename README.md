@@ -1,5 +1,3 @@
-
-
 ### River Classes
 
 You've learned about creating classes to imitate objects in the real world. Let's put that knowledge to the test by making a `River` class. 
@@ -26,4 +24,4 @@ Create the `River` class based on this data and then create instances of the cla
 
 The Amazon and the Yangtze should flood. The Euphrates should dry up.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-rivers-to-do' title='River Classes'>River Classes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 River Classes</p>
